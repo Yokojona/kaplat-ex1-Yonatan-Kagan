@@ -1,1 +1,2 @@
 Irrelevant content of the second file.
+Edit of b.txt
